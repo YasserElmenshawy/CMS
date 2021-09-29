@@ -1,0 +1,18 @@
+{
+    "name": "yasser/cms",
+    "require": {
+        "phpmailer/phpmailer": "^6.5",
+        "snowfire/mail": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Yasser\\Cms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yasser1133",
+            "email": "47793179+yasser1133@users.noreply.github.com"
+        }
+    ]
+}
